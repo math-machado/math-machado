@@ -17,12 +17,6 @@
 <br>
 
 <div align='center'>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=math-machado&theme=transparent&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-</div>
-
-<div align='center'>
-  
   ## Tecnologias que uso no meu dia:
 </div>
 
