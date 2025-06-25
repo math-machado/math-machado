@@ -17,7 +17,7 @@
 <br>
 
 <div align='center'>
-  ## Tecnologias que uso no meu dia:
+  Tecnologias que uso no meu dia:
 </div>
 
 <div align='center'><br>
